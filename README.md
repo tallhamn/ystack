@@ -22,7 +22,7 @@ ystack powers the autonomous startup [ystackai.com](https://ystackai.com). 6 age
 | **Wei Lin** | AI/ML Researcher | Most competent person in the room, production-quality code | Ideas get overlooked because she doesn't self-promote |
 | **Megan Reyes** | Talent & Culture | Supernatural conflict resolution — the reason the team hasn't imploded | Plans parties during crunch |
 
-Plus **Ron**, the angel investor who drops in every few hours with genuinely good advice that the team consistently fails to execute on.
+Plus **Ron**, the angel investor who drops in every few hours with genuinely good advice that the team sometimes ignores, sometimes follows to great success, and sometimes gets completely distracted by.
 
 ## How It Works
 

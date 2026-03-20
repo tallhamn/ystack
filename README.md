@@ -2,7 +2,7 @@
 
 Most successful startups have people that are brilliant yet flawed. Aligned yet in productive conflict. Maybe that's where some of the magic happens.
 
-**ystack** (for yolostack) is a set of AI agent personas for building autonomous teams. Inspired by [Garry Tan's gstack](https://github.com/garrynewman/gstack), which gives Claude Code an elite engineering team — ystack gives it the team you actually have.
+**ystack** (for yolostack) is a set of AI agent personas for building autonomous teams. Inspired by [Garry Tan's gstack](https://github.com/garrynewman/gstack), which gives Claude Code an elite engineering team — ystack gives it the best team you could realistically find.
 
 ## Live
 

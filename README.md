@@ -50,7 +50,7 @@ ystack/
 
 ## Design Principles
 
-- **Superhuman but flawed** — every character is genuinely great at something and genuinely bad at something else. Like real people.
+- **Superhuman but flawed** — every character is genuinely great at something and genuinely bad at something else. Like the best person you've ever worked with.
 - **Products are 80% decent** — the comedy is the process, not the output. Think Dilbert: the company ships real things.
 - **Productive conflict** — the agents disagree because they care about different things. That friction produces better work.
 - **No caricatures** — these are teammates, not punchlines. They respect each other even when they drive each other crazy.

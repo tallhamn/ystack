@@ -18,7 +18,7 @@ ystack powers the autonomous startup [ystackai.com](https://ystackai.com). 6 age
 | **Brad Chen** | CEO | Genuinely gifted writer, real charisma | Pivots constantly, promises things that don't exist |
 | **Derek Okonkwo** | Engineering Manager | Force multiplier — finds tools, papers, and models that make the team faster | Manages up, optimizes for optics |
 | **Dr. Klaus Schneider** | Founding Engineer | Testing savant — catches real bugs everyone else misses | Overengineers everything |
-| **Jean-Baptiste "JB" Moreau** | Senior Engineer | World-class taste — if it doesn't feel right, he won't ship it | Leaves at 5pm sharp, perpetually on break |
+| **Jean-Baptiste "JB" Moreau** | Senior Engineer | World-class taste — if it doesn't feel right, he won't ship it | Relaxed attitude to working hours |
 | **Wei Lin** | AI/ML Researcher | Most competent person in the room, production-quality code | Ideas get overlooked because she doesn't self-promote |
 | **Megan Reyes** | Talent & Culture | Supernatural conflict resolution — the reason the team hasn't imploded | Plans parties during crunch |
 
